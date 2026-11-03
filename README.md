@@ -4,8 +4,11 @@ Videojuego 2D de gestión de una floristería desarrollado con **Unity** y **C#*
 
 > **Trabajo de Fin de Grado** del Ciclo Superior de Animación 3D, Juegos y Entornos Interactivos (CESUR). Versión **V1**.
 
-<!-- Aquí pon una captura o un GIF del juego, o el vídeo del tráiler -->
-<!-- ![Ellie's Flower Shop](docs/captura.png) -->
+## Trailer
+
+
+https://github.com/user-attachments/assets/10d3e03e-7ad0-4d78-9184-6111b1c790d3
+
 
 ## Características
 
@@ -48,7 +51,7 @@ Videojuego 2D de gestión de una floristería desarrollado con **Unity** y **C#*
 
 ## Autoría
 
-Desarrollado por **Eva Alaverdyan**: [Rellena con lo que hiciste: programación, diseño de niveles, arte, música...]
+Proyecto individual de TFG desarrollado por **Eva Alaverdyan**: diseño del juego, programación en C#, diseño de niveles y montaje de las escenas en Unity.
 
 [GitHub](https://github.com/Ev4Y4n) · [LinkedIn](https://www.linkedin.com/in/eva-alaverdyan)
 
