@@ -59,7 +59,6 @@ Proyecto individual de TFG desarrollado por **Eva Alaverdyan**: diseño del jueg
 
 - Free Platform Game Assets (BayatGames)
 - Food Icons Pack
-- [Música y sonido de lluvia: indica autor y fuente]
-- [Otros assets que no sean tuyos]
+- Diseño y animación de los personajes: https://quipinny.itch.io/ 
 
   
